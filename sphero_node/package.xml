@@ -4,6 +4,7 @@
   <description>
     sphero_node provides a ROS wrapper for the sphero driver.
   </description>
+  <author>Allison Thackston</author>
   <author>Melonee Wise</author>
   <maintainer email="melonee@meloneewise.com">Melonee Wise</maintainer>
   <license>BSD</license>
@@ -24,6 +25,7 @@
   <run_depend>sensor_msgs</run_depend>
   <run_depend>nav_msgs</run_depend>
   <run_depend>std_msgs</run_depend>
+  <run_depend>diagnostic_msgs</run_depend>
   <run_depend>tf</run_depend>
   <run_depend>python_orocos_kdl</run_depend>
   <run_depend>rospy</run_depend>
